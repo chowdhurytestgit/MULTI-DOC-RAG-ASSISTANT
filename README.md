@@ -31,24 +31,24 @@ DocMindAI/
 └── README.md              # Project documentation
 
 **🚀 How to Run the Project**
-1. Clone the Repository
+**1. Clone the Repository**: 
 git clone https://github.com/your-username/DocMindAI.git
 cd DocMindAI
-2. Create Virtual Environment (Recommended)
+**2. Create Virtual Environment (Recommended)**: 
 python -m venv venv
 
 **Activate environment:**
 
-Windows
+**Windows**: 
 venv\Scripts\activate
 
-Mac/Linux
+**Mac/Linux**: 
 source venv/bin/activate
 
-**3. Install Dependencies**
+**3. Install Dependencies**: 
 pip install -r requirements.txt
 
-**4. Run the Application**
+**4. Run the Application**: 
 If Streamlit is used:
 streamlit run app.py
 
